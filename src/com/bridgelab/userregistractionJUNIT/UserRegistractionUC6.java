@@ -59,7 +59,7 @@ public class UserRegistractionUC6 {
 				boolean  resultMobileNumber = Pattern.matches(MOBILE_NUMBER, mobileNumber);
 				System.out.println( resultMobileNumber);
 				if(resultMobileNumber == false) {
-					System.out.println("Enter valid Mobile number 91 9856238545  pattern");
+					System.out.println("Enter valid Mobile number 91 9113608868  pattern");
 					break; 
 				}
 
